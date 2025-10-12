@@ -1,7 +1,7 @@
 # 🧠 Example Python Scripts for Functional Decoding using NiMARE
 
 Welcome to this repository!  
-This project provides example Python scripts to perform **functional decoding** using 🧬 [NiMARE](https://github.com/neurostuff/NiMARE).
+This project provides example Python scripts to perform **functional decoding** using 🧬 [NiMARE](https://nimare.readthedocs.io/en/stable/).
 
 ---
 
