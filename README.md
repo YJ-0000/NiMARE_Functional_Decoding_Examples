@@ -1,7 +1,7 @@
 # 🧠 Example Python Scripts for Meta-analytic Functional Decoding using NiMARE
 
 Welcome to this repository!  
-This project provides example Python scripts to perform **Meta-analytic functional decoding** using 🧬 [NiMARE](https://nimare.readthedocs.io/en/stable/).
+This project provides example Python scripts to perform **meta-analytic functional decoding** using 🧬 [NiMARE](https://nimare.readthedocs.io/en/stable/).
 
 ---
 
