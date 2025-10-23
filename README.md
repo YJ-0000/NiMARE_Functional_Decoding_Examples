@@ -10,6 +10,7 @@ This project provides example Python scripts to perform **meta-analytic function
 Before running the scripts, make sure you have the following installed or downloaded:
 
 - 🧰 **NiMARE** (and its dependencies)  
+- ☁️  **wordcloud** [Github repository](https://github.com/amueller/word_cloud/)
 - 🧠 **NeuroMark 2.2 templates** (in `.nii` format)
 
 ## 📝 Notes
